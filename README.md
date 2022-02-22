@@ -1,7 +1,7 @@
 <div align="center">
 
 <kbd>
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/c0d3rb0y/Milknami/main/public/img/cookie.png">
+<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/c0d3rb0y/Bigfan123/main/public/img/cookie.png">
 </kbd>
 
 <h1>Milknami</h1>
